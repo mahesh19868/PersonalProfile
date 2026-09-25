@@ -9,10 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "framer-motion": "^12.23.22",
     "next": "^15.5.4",
+    "openai": "^7.23.0",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "framer-motion": "^12.23.22"
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",

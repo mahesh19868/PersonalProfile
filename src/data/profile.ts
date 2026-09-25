@@ -136,6 +136,7 @@ export const portfolioLinks = [
 export const navItems = [
   { label: "About", href: "#about" },
   { label: "Journey", href: "#journey" },
+  { label: "Digital Twin", href: "#twin" },
   { label: "Portfolio", href: "#portfolio" },
   { label: "Contact", href: "#contact" },
 ] as const;

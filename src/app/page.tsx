@@ -5,6 +5,7 @@ import { About } from "@/components/About";
 import { Journey } from "@/components/Journey";
 import { Portfolio } from "@/components/Portfolio";
 import { Contact, Footer } from "@/components/Contact";
+import { DigitalTwinChat } from "@/components/DigitalTwinChat";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
         <About />
         <Journey />
         <Portfolio />
+        <DigitalTwinChat />
         <Contact />
       </main>
       <Footer />
